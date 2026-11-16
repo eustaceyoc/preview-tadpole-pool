@@ -1,0 +1,60 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Tadpole Pool Services, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/pool-handrails.jpg",
+      "placement": "Hero",
+      "source": "Pexels",
+      "photoId": 19281006,
+      "title": "Handrails in a Corner of a Swimming Pool",
+      "photographer": "Mihman Du\u011fanl\u0131",
+      "page": "https://www.pexels.com/photo/handrails-in-a-corner-of-a-swimming-pool-19281006/",
+      "originalFile": "https://images.pexels.com/photos/19281006/pexels-photo-19281006.jpeg",
+      "derivation": "Resized to 1000x1508 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/turf-ladder.jpg",
+      "placement": "Request tips section",
+      "source": "Pexels",
+      "photoId": 38987604,
+      "title": "Inviting Poolside Scene in Chefchaouen, Morocco",
+      "photographer": "A.",
+      "page": "https://www.pexels.com/photo/inviting-poolside-scene-in-chefchaouen-morocco-38987604/",
+      "originalFile": "https://images.pexels.com/photos/38987604/pexels-photo-38987604.jpeg",
+      "derivation": "Resized to 1000x1568 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/goggles.jpg",
+      "placement": "Request tips card",
+      "source": "Pexels",
+      "photoId": 12932253,
+      "title": "Photo of Slippers Beside Goggles",
+      "photographer": "Atlantic Ambience",
+      "page": "https://www.pexels.com/photo/photo-of-slippers-beside-goggles-12932253/",
+      "originalFile": "https://images.pexels.com/photos/12932253/pexels-photo-12932253.jpeg",
+      "derivation": "Resized to 900x1350 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Fredoka",
+      "files": [
+        "assets/fonts/fredoka-normal-400_700.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Nunito",
+      "files": [
+        "assets/fonts/nunito-normal-400_800.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
